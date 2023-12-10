@@ -216,17 +216,9 @@
                 "ip": [
                     "geoip:private"
                 ],
-                "outboundTag": "BLOCK",
-                "type": "field"
-            },
-            {
                 "domain": [
                     "geosite:private"
                 ],
-                "outboundTag": "BLOCK",
-                "type": "field"
-            },
-            {
                 "protocol": [
                     "bittorrent"
                 ],
